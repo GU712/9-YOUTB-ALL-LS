@@ -9,10 +9,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-
-<title>[B][COLOR white]BANG-BANG SPAGHETTI [/B][/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLLwigyUyXSTSirrX4ChhO8OSFkJK2-4/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLLwigyUyXSTSirrX4ChhO8OSFkJK2-4h5/?page=0</jsonrpc>
 <thumbnail>https://images.saatchiart.com/saatchi/1041068/art/7262185/6331399-HSC00001-32.jpg</thumbnail>
 <fanart>https://static.tvtropes.org/pmwiki/pub/images/spaghetti_western_heroes.jpg</fanart>
 </item>
